@@ -7,4 +7,6 @@ package top.rurenyinshui;
  */
 public class User {
 
+    private Integer id;
+
 }
